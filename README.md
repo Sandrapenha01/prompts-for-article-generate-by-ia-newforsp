@@ -70,7 +70,7 @@ Lexica.art：
 
 ## 🛠️ Instruções de execução
 
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação,como preferir o passo a passo de como fiz seguindo o curso Formação ChatGPT for Devs em vídeo pode ser conferido na plataforma da [DIO](https://dio.me).Você pode tam bem usar meu link de convite : [DIO](https://www.dio.me/sign-up?ref=34ISV3VTQT)
+Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como Doc, power point, libreoffice , indesign para diagramação,como preferir. O passo a passo de como fiz, seguindo o curso Formação ChatGPT for Devs em vídeo pode ser conferido na plataforma da [DIO](https://dio.me).Você pode também usar meu link de convite: [DIO](https://www.dio.me/sign-up?ref=34ISV3VTQT)
 
 ## 👨‍💻 Expert
 
@@ -97,4 +97,4 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 ---
 
 ⌨️ Originalmente criado pelo instrutor técnico da plataforma DIO [Felipe Aguiar](https://github.com/felipeAguiarCode)
-Versão por Sandra Penha. OBS: Material sendo editado
+Versão por Sandra Penha. OBS: Material sendo editado.
