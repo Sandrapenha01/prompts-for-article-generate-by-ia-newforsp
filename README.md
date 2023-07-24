@@ -38,7 +38,7 @@ Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura a
 
 - [ChatGPT](https://chat.openai.com/) - para título e conteúdo
 - [Lexica.art](https://lexica.art/) - para gerar imagem
-- [Canvas](https://www.microsoft.com/en/microsoft-365/powerpoint) - Para formatação de banners e Layouts
+- [Canvas](https://www.canva.com/pt_br/) - Para formatação de banners e Layouts
 
 ## 📄 Prompts e ferramentas
 
@@ -48,14 +48,14 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie 10 headlines para nomes de artigos sobre o assunto Analista de TI de Serviços de Software                                                                                                                                                                                                    |
-| conteúdo | Escreva um artigo com o título: "O Analista de Suporte em TI como peça-chave na otimização de Serviços de Software"comportando-se como um escritor {Regras} No máximo 5 linhas por parágrafos de maneira formal, com blocos : O que  um Analista de TI?O que são Serviços de Software?Analista de Suporte em TI como peça-chave na otimização de Serviços de Software e Citando exemplos de como um Analista de Suporte em TI é importante na otimização de Serviços de Software. |
+| conteúdo | Escreva um artigo com o título: "O Analista de Suporte em TI como peça-chave na otimização de Serviços de Software" comportando-se como um escritor {Regras} No máximo 5 linhas por parágrafos de maneira formal, com blocos : O que  um Analista de TI?O que são Serviços de Software?Analista de Suporte em TI como peça-chave na otimização de Serviços de Software e Citando exemplos de como um Analista de Suporte em TI é importante na otimização de Serviços de Software. |
 
 
 Lexica.art：
 
-- No léxica utilizamos o acervo público de imagens geradas por outras pessoas, os termos de pesquisa que utilizei durante a gravação do conteúdo foram:
+- No léxica utilizei o acervo público de imagens geradas por outras pessoas, o termo de pesquisa que utilizei durante a gravação do conteúdo foi:
 
-• Angular
+• Analista de Suporte em TI
 
 
 
@@ -70,7 +70,7 @@ Lexica.art：
 
 ## 🛠️ Instruções de execução
 
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação, o passo a passo em vídeo pode ser conferido na plataforma da [DIO](https://dio.me).
+Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação,como preferir o passo a passo de como fiz seguindo o curso Formação ChatGPT for Devs em vídeo pode ser conferido na plataforma da [DIO](https://dio.me).Você pode tam bem usar meu link de convite : [DIO](https://www.dio.me/sign-up?ref=34ISV3VTQT)
 
 ## 👨‍💻 Expert
 
