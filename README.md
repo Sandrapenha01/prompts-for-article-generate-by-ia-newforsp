@@ -36,9 +36,9 @@ Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura a
 
 ## 💻 Tecnologias utilizadas no projeto
 
-- [ChatGPT](https://chat.openai.com/) - para título e conteúdo
-- [Lexica.art](https://lexica.art/) - para gerar imagem
-- [Canvas](https://www.canva.com/pt_br/) - Para formatação de banners e Layouts
+- [ChatGPT](https://chat.openai.com/) - Para título e conteúdo
+- [Lexica.art](https://lexica.art/) - Para gerar imagem
+- [Canva](https://www.canva.com/pt_br/) - Para formatação de banners e Layouts
 
 ## 📄 Prompts e ferramentas
 
@@ -79,7 +79,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       align=left 
       margin=10 
       width=80 
-      src="colocaraqui httpcom minhafoto"
+      src="faltafoto"
     />
     <p>&nbsp&nbsp&nbspSandra Penha<br>
     &nbsp&nbsp&nbsp
@@ -96,5 +96,5 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 
 ---
 
-⌨️ Originalmente criado pelo instrutor técnico da plataforma DIO [Felipe Aguiar](https://github.com/felipeAguiarCode)
-Versão por Sandra Penha. OBS: Material sendo editado.
+⌨️ Original por instrutor técnico da plataforma DIO [Felipe Aguiar](https://github.com/felipeAguiarCode)
+Versão por Sandra Penha.
