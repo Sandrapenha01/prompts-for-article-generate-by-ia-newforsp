@@ -14,7 +14,7 @@
 
 <p align="center">
   <img 
-    src="[.github/assets/preview.png](https://github.com/Sandrapenha01/prompts-for-article-generate-by-ia-newforsp/blob/main/prewiewsp.png)"
+    src="https://github.com/Sandrapenha01/prompts-for-article-generate-by-ia-newforsp/blob/main/prewiewsp.png"
     width="400"  
   />
 </p>
